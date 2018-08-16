@@ -18,7 +18,7 @@ object worksheet {
 
   // 2. k vale 10
 
-  var k = 10;
+  var k = 10
   def inlineReturn(): String = if (k == 10) "k vale 10" else "k no vale 10"
   inlineReturn()
 
